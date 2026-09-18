@@ -1,9 +1,14 @@
 body{
-    background-color:whitesmoke;
+    background-color:rgb(194, 121, 11);
     text-align: center;
-
+  font-family: "Audiowide", sans-serif;
 }
+
 img{
     width: 600px;
-    height: 600px;
+    height: 800px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
 }
