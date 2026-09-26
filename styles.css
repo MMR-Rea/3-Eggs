@@ -26,7 +26,7 @@ footer{
 }
 .yuss{
     color: rgb(0, 0, 0);
-    font-size: 15px;
+    font-size: 20px;
     text-shadow: 2px 2px 4px #000000;
     text-align: center;
 }
@@ -60,6 +60,7 @@ li{
 }
 .yussi:hover{
     color: rgb(0, 0, 0);
+    font-size: 25px;
     text-shadow: 2px 2px 4px #000000;
     text-align: center;
     text-decoration: underline;
