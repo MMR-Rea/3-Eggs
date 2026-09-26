@@ -1,3 +1,4 @@
+
 body{
     background-color:rgb(194, 121, 11);
     text-align: center;
@@ -5,10 +6,69 @@ body{
 }
 
 img{
-    width: 600px;
-    height: 800px;
+    width: 500px;
+    height: 700px;
 }
 footer{
     position: fixed;
     bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.RoyalPoyple{
+    color: rgb(120, 81, 169);
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #000000;
+}
+.RoyalPoyple:hover{
+    color: rgb(192, 0, 0);
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #000000;
+}
+.yuss{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+}
+
+body {
+  font-family: "Audiowide", sans-serif;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  font-family: "Audiowide", sans-serif;
+}
+.copywrite {
+  font-size: 26px;
+  color: #000000;
+  text-align: center;
+  margin-top: 10px;
+}
+.RoyalPoyple2{
+    color: rgb(120, 81, 169);
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
+.RoyalPoyple2:hover{
+    color: rgb(192, 0, 0);
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
+li{
+    list-style-type: none;
+}
+.yussi:hover{
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 71, 202);
+    text-decoration-thickness: 5px;
+    text-decoration-style: dashed;
+    text-underline-offset: 3px;
+}
+.Bobua:hover{
+    width: 1000px;
 }
