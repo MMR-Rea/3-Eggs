@@ -26,9 +26,10 @@ footer{
 }
 .yuss{
     color: rgb(0, 0, 0);
-    font-size: 20px;
+    font-size: 25px;
     text-shadow: 2px 2px 4px #000000;
     text-align: center;
+    white-space: nowrap;
 }
 
 body {
@@ -40,7 +41,7 @@ h1, h2, h3 {
   font-family: "Audiowide", sans-serif;
 }
 .copywrite {
-  font-size: 12px;
+  font-size: 20px;
   color: #000000;
   text-align: center;
   margin-top: 10px;
@@ -60,7 +61,6 @@ li{
 }
 .yussi:hover{
     color: rgb(0, 0, 0);
-    font-size: 25px;
     text-shadow: 2px 2px 4px #000000;
     text-align: center;
     text-decoration: underline;
