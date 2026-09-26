@@ -26,7 +26,7 @@ footer{
 }
 .yuss{
     color: rgb(0, 0, 0);
-    font-size: 30px;
+    font-size: 15px;
     text-shadow: 2px 2px 4px #000000;
     text-align: center;
 }
@@ -40,7 +40,7 @@ h1, h2, h3 {
   font-family: "Audiowide", sans-serif;
 }
 .copywrite {
-  font-size: 26px;
+  font-size: 12px;
   color: #000000;
   text-align: center;
   margin-top: 10px;
